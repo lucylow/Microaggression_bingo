@@ -19,7 +19,7 @@
 ## Sample References from (https://www.buzzfeed.com/regajha/how-privileged-are-you)
 * I am white.
 * I am a man.
-* I have never felt unasfe because of my gender.
+* I have never felt unsafe because of my gender.
 * I have never been catcalled.
 * I have never been raped.
 * I have never been asked "So where are you really from?" or "Why don't you have an accent?".
