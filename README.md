@@ -1,12 +1,11 @@
-# Microaggression_bingo
-
+# Microaggression Bingo 
 "Let's play the privilege game?"
 
-Definitions
+## Definitions
 * PRIVILEGE == "special right, advantage, or immunity granted or available only to a particular person or group."
 * MICROAGRESSION == "daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group"
 
-Categories 
+## Categories 
 * Gender
 * Race
 * Class
@@ -17,7 +16,7 @@ Categories
 * Intersectionality
 
 
-Sample References from (https://www.buzzfeed.com/regajha/how-privileged-are-you)
+## Sample References from (https://www.buzzfeed.com/regajha/how-privileged-are-you)
 * I am white.
 * I am a man.
 * I have never felt unasfe because of my gender.
