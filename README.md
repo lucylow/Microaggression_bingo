@@ -24,7 +24,7 @@
 * I have never been raped.
 * I have never been asked "So where are you really from?" or "Why don't you have an accent?".
 * My parents pay all of my bills.
-* I was not bullied as a child for any of my identities.
+* I was not bullied as a child for any of my identities. :(
 * I do not rely on public transportation.
 * I have never been a victim of violence because of my race.
 * I never had to "come out".
