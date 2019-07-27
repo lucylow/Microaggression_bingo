@@ -5,7 +5,7 @@
 ## Definitions
 
 PRIVILEGE == "Special rights, advantages, or immunity granted or available only to a particular person or group."
-MICROAGRESSION == "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
+MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
 
 ## Categories [Make this configurable]
 
