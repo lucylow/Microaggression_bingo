@@ -1,5 +1,5 @@
 # Microaggression Bingo 
-"Let's play the privilege game?"
+"Let's play the privilege game?" or "Death by a thousand papercuts."
 
 ## Definitions
 * PRIVILEGE == "Special rights, advantages, or immunity granted or available only to a particular person or group."
