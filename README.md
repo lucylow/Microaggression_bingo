@@ -1,12 +1,10 @@
 # Microaggression Bingo
-A bingo board mobile application. Death by a thousand papercuts. Let's play the privilege game?
+A bingo board mobile application. 
 
-## Definitions
+## Slogan
+Death by a thousand papercuts. Let's play the privilege game?
 
-PRIVILEGE == "Special rights, advantages, or immunity granted or available only to a particular person or group."
-MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
-
-## Technical:  How it works 
+## Technical: How it works 
 * HTML5 + CSS3 
   * Game transitions and animations
   * Audio for bingo sound
@@ -15,6 +13,10 @@ MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whe
   * Randomizer - content randomizes reload for new game each time 
   * Win - checks data attribues for winning conditions 
   * Customize .json data in data.js file
+
+## Definitions
+PRIVILEGE == "Special rights, advantages, or immunity granted or available only to a particular person or group."
+MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
 
 
 ## Categories [Config in bingo.options]
