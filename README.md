@@ -1,8 +1,8 @@
 # Microaggression Bingo
-A bingo board mobile application. 
+A bingo board mobile application. Let's play the privilege game?
 
 ## Slogan
-Death by a thousand papercuts. Let's play the privilege game?
+"Death by a thousand papercuts."
 
 ## Technical: How it works 
 * HTML5 + CSS3 
@@ -15,8 +15,8 @@ Death by a thousand papercuts. Let's play the privilege game?
   * Customize .json data in data.js file
 
 ## Definitions
-PRIVILEGE == "Special rights, advantages, or immunity granted or available only to a particular person or group."
-MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
+**PRIVILEGE** == "Special rights, advantages, or immunity granted or available only to a particular person or group."
+**MICROAGGRESSION** == "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
 
 
 ## Categories [Config in bingo.options]
@@ -31,7 +31,6 @@ MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whe
   * Religion
   * Disabilities
 * Intersectionality
-  * Intersections between configs 
 
 ## Sample References from (https://www.buzzfeed.com/regajha/how-privileged-are-you)
 
@@ -42,7 +41,7 @@ MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whe
 * I have never been raped.
 * I have never been asked "So where are you really from?" or "Why don't you have an accent?".
 * My parents pay all of my bills.
-* I was not bullied as a child for any of my identities. :(
+* **I was not bullied as a child for any of my identities. :(**
 * I do not rely on public transportation.
 * I have never been a victim of violence because of my race.
 * I never had to "come out".
