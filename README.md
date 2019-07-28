@@ -6,8 +6,8 @@ Death by a thousand papercuts.
 PRIVILEGE == "Special rights, advantages, or immunity granted or available only to a particular person or group."
 MICROAGGRESSION == "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
 
-## Categories [Make this configurable]
-
+## Categories [Config in bingo.options]
+* Basic
 * Gender
 * Race
 * Age
