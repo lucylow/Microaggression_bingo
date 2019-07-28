@@ -1,6 +1,5 @@
 # Microaggression Bingo
-
-"Let's play the privilege game?" or "Death by a thousand papercuts."
+Death by a thousand papercuts.
 
 ## Definitions
 
