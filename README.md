@@ -19,10 +19,10 @@ A bingo board mobile application. **Let's play the privilege game?**
 * "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
 **PATRIARCHY**
-* "A cultural construct in which rich, white, straight, cisgender, christian men are valued more than minority groups."
+* "A cultural construct in which **rich, white, straight, cisgender, christian men** are valued more than minority groups."
 
 **MICROAGGRESSION**
-* "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
+* "Daily verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
 ## Categories [Config in bingo.options]
@@ -42,7 +42,7 @@ A bingo board mobile application. **Let's play the privilege game?**
 
 * I am white.
 * I am a man.
-* My name is one of the following: [James, John, Robert, Micael, William, David, Richard, Joseph, ,Thomas or Chris]
+* My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas, or Chris**]
 * I have never felt unsafe because of my gender.
 * I have never been catcalled.
 * I have never been raped.
