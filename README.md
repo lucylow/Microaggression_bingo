@@ -5,10 +5,10 @@ A bingo board mobile application. **Let's play the privilege game?**
 "Death by a thousand papercuts."
 
 ## Technical: How it works 
-* HTML5 + CSS3 
+* **HTML5 + CSS3** 
   * Game transitions and animations
   * Audio for bingo sound
-* Javascript + jQuery
+* **Javascript + jQuery**
   * Game reads square data from data.js file 
   * Randomizer - content randomizes reload for new game each time 
   * Win - checks data attribues for winning conditions 
@@ -52,10 +52,10 @@ A bingo board mobile application. **Let's play the privilege game?**
 * I do not rely on public transportation.
 * I have never been a victim of violence because of my race.
 * I never had to "come out".
-* I have never been called fag/dyke/fairy or any other derogatory slur for homosexuals.
+* I have never been called **fag/dyke/fairy or any other derogatory slur** for homosexuals.
 * I do not have any learning disabilities.
 * I do not have any physical disabilities.
 * I have never been shamed for my body type.
 * I can afford a therapist.
 * I am not nervous in airport secuity lines.
-* You have never heard this statement: "You have been randomly selected for secondary passport control".
+* You have never heard this statement: **"You have been randomly selected for secondary passport control"**.
