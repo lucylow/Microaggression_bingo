@@ -9,9 +9,9 @@ A bingo board mobile application. **Let's play the privilege game?**
   * Game transitions and animations
   * Audio for bingo sound
 * **Javascript + jQuery**
-  * Game reads square data from data.js file 
+  * Game reads square microagression data from data.js file 
   * Randomizer - content randomizes reload for new game each time 
-  * Win - checks data attribues for winning conditions 
+  * Win - checks data attributes for winning bingo conditions 
   * Customize .json data in data.js file
 
 ## Definitions
@@ -27,7 +27,7 @@ A bingo board mobile application. **Let's play the privilege game?**
 
 ## Categories [Config in bingo.options]
 * Basic bingo board
-  * Pink background jpeg
+  * Pink background .jpeg
 * Configurations 
   * Gender
   * Race
