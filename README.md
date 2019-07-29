@@ -18,6 +18,9 @@ A bingo board mobile application. **Let's play the privilege game?**
 **PRIVILEGE**
 * "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
+**PATRIARCHY**
+"A cultural construct in which rich, white, straight, cisgender, christian men are valued more than minority groups."
+
 **MICROAGGRESSION**
 * "Daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group."
 
