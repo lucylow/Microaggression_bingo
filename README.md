@@ -42,6 +42,7 @@ A bingo board mobile application. **Let's play the privilege game?**
 
 * I am white.
 * I am a man.
+* My name is one of the following: [James, John, Robert, Micael, William, David, Richard, Joseph, ,Thomas or Chris]
 * I have never felt unsafe because of my gender.
 * I have never been catcalled.
 * I have never been raped.
