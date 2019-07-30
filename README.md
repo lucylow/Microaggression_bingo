@@ -7,11 +7,11 @@ A bingo board mobile application. **Let's play the privilege game?**
 ## Technical: How it works 
 * **HTML5 + CSS3** 
   * Game transitions and animations
-  * Audio for bingo sound
+  * Audio for bingo sound "PRIVILEGE"
 * **Javascript + jQuery**
   * Game reads square microagression data from data.js file 
-  * Randomizer - content randomizes reload for new game each time 
-  * Win - checks data attributes for winning bingo conditions 
+  * Randomizer: content randomizes reload for new game each time 
+  * Win: checks data attributes for winning bingo conditions 
   * Customize .json data in data.js file
 
 ## Definitions
