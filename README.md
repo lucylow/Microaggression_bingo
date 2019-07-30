@@ -1,5 +1,7 @@
 # Microaggression Bingo
-A bingo board mobile application. **Let's play the privilege game?**
+A bingo board mobile application. 
+
+**Let's play the privilege game?**
 
 ## Slogan
 "Death by a thousand papercuts."
@@ -7,7 +9,8 @@ A bingo board mobile application. **Let's play the privilege game?**
 ## Technical: How it works 
 * **HTML5 + CSS3** 
   * Game transitions and animations
-  * Audio for bingo sound "PRIVILEGE"
+  * Audio for bingo sound "PRIVILEGE!"
+  
 * **Javascript + jQuery**
   * Game reads square microagression data from data.js file 
   * Randomizer: content randomizes reload for new game each time 
@@ -42,7 +45,7 @@ A bingo board mobile application. **Let's play the privilege game?**
 
 * I am white.
 * I am a man.
-* My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas, or Chris**]
+* My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas, ** or **Chris**]
 * I have never felt unsafe because of my gender.
 * I have never been catcalled.
 * I have never been raped.
