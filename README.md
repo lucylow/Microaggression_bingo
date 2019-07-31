@@ -45,7 +45,7 @@ A bingo board mobile application.
 
 * I am white.
 * I am a man.
-* My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas, ** or **Chris**]
+* My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas,** or **Chris**]
 * I have never felt unsafe because of my gender.
 * I have never been catcalled.
 * I have never been raped.
