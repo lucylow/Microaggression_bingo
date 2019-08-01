@@ -6,7 +6,10 @@ $(document).ready(function() {
 	$('#header').append(headerText);
 	
 	$('#footer').append(footerText);
-
+	
+	introSnd.play();
+	
+	// content randomizes reload for new game each time
 	shuffle(JSONBingo.squares);
 	
 	for (i=0; i<24; i++)	{
@@ -50,6 +53,7 @@ $(document).ready(function() {
 			$('#header').addClass("win");
 	
          	winSnd.play();
+		privilegeSnd.play();
     		
     	} else {
 			$('#header').html(headerText);
