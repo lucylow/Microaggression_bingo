@@ -63,6 +63,6 @@ A bingo board mobile application.
 * I am not nervous in airport secuity lines.
 * You have never heard this statement: "You have been randomly selected for secondary passport control".
 
-References
+## References
 * https://www.buzzfeed.com/regajha/how-privileged-are-you
 * https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
