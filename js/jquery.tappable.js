@@ -1,6 +1,3 @@
-// jquery.tappable.js version 0.2
-
-
 ;(function($) {
   var touchSupported = ('ontouchstart' in window)
 
