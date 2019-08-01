@@ -92,7 +92,7 @@ body {
 .text {
 	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", Arial, sans-serif;
 	vertical-align: middle;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	line-height: 1.2em;
 }
 
@@ -110,7 +110,7 @@ body {
 
 .win {
 	color: #ffffff !important;
-   	background-color: red;
+   	background-color: black;
 }
 
 @media only screen 
