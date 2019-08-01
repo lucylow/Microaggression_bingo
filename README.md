@@ -18,11 +18,10 @@ A bingo board mobile application.
   * Customize .json data in data.js file
 
 ## Definitions
-**PRIVILEGE**
-* "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
 **PATRIARCHY**
 * "A cultural construct in which **old, rich, white, straight, cisgender, christian men** are valued more than minority groups."
+* "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
 **MICROAGGRESSION**
 * "Daily verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
