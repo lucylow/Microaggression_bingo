@@ -46,7 +46,7 @@ var JSONBingo = {"squares": [
         {"square": "I make more money than my professional counterparts of a different gender."},    	
         {"square": "I have never gone to bed hungry."}, 
         {"square": "My parents are heterosexual."},    	
-        {"square": "My name is Richard, Joseph, or Chis."},    	
+        {"square": "My name is Richard, Joseph, or Chris."},    	
         {"square": "There is a place of worship for my religion in my town."}    	
     ]
 };
