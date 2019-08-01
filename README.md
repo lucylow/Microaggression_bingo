@@ -1,6 +1,9 @@
 # Microaggression Bingo
 A bingo board mobile application. 
 
+![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/bingo%20win%20state.png)
+
+
 **Let's play the privilege game?**
 
 ## Slogan
