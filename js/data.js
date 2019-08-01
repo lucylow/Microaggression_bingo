@@ -1,5 +1,5 @@
 
-var headerText = "Bingo";
+var headerText = "Microaggression Bingo";
 
 var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'>Lucy Low</a>";
 
