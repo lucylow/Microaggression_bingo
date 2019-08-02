@@ -2,7 +2,7 @@
 A bingo board mobile application. 
 **Let's play the privilege game?**
 
-![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/bingo%20win%20state.png)
+![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/win%20state%202.png)
 
 ## Slogan
 "Death by a thousand papercuts."
