@@ -1,13 +1,13 @@
-# Microaggression Bingo
+# Microaggression Bingo &#x1F49C;
 A bingo board mobile application. 
 **Let's play the privilege game?**
 
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/win%20state%202.png)
 
-## Slogan
+## Slogan &#x1F49C;
 "Death by a thousand papercuts."
 
-## Technical: How it works 
+## Technical: How it works  &#x1F49C;
 * **HTML5 + CSS3** 
   * Game transitions and animations
   * Audio mp3s for bingo sounds
@@ -18,7 +18,7 @@ A bingo board mobile application.
   * Win: checks data attributes for winning bingo conditions for "**Winner Winner Privledge Dinner**" popup.
   * Customize .json data in data.js file
 
-## Definitions
+## Definitions &#x1F49C;
 
 **PATRIARCHY**
 * "A cultural construct in which **old, rich, white, straight, cisgender, christian men** are valued more than minority groups."
@@ -28,7 +28,7 @@ A bingo board mobile application.
 * "Daily verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
-## Categories [Config in bingo.options]
+## Categories [Config in bingo.options] &#x1F49C;
 * Basic bingo board
   * Pink background .jpeg
 * Configurations 
@@ -41,7 +41,7 @@ A bingo board mobile application.
   * Disabilities
 * Intersectionality
 
-## Examples
+## Examples &#x1F49C;
 
 * I am white.
 * I am a man.
@@ -63,6 +63,6 @@ A bingo board mobile application.
 * I am not nervous in airport secuity lines.
 * You have never heard this statement: "You have been randomly selected for secondary passport control".
 
-## References
+## References &#x1F49C;
 * https://www.buzzfeed.com/regajha/how-privileged-are-you
 * https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
