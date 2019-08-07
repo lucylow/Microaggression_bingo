@@ -15,7 +15,8 @@ A bingo board mobile application.
 * **Javascript + jQuery**
   * Game reads square microagression data from data.js file 
   * Randomizer: content randomizes reload for new game each time 
-  * Win: checks data attributes for winning bingo conditions for "**Winner Winner Privledge Dinner**" popup.
+  * Win state checks data attributes for winning bingo conditions
+  * End game at "**Winner Winner Privilege Dinner**" popup.
   * Customize .json data in data.js file
 
 ## Definitions &#x1F49C;
