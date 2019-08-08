@@ -50,7 +50,7 @@ A bingo board mobile application.
 * I have never felt unsafe because of my gender.
 * I have never been catcalled.
 * I have never been raped.
-* I have never been asked "So where are you really from?" or "Why don't you have an accent?".
+* I have never been asked "So where are you REALLY from?" or "Why don't you have an accent?".
 * My parents pay all of my bills.
 * **I was not bullied as a child for any of my identities. :(**
 * I do not rely on public transportation.
