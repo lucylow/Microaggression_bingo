@@ -22,7 +22,7 @@ A bingo board mobile application.
 ## Definitions &#x1F49C;
 
 **PATRIARCHY**
-* "A cultural construct in which **old, rich, white, straight, cisgender, christian men** are valued more than minority groups."
+* "A cultural construct in which **old, rich, white, straight, cisgender, able-bodied, christian men** are valued more than minority groups."
 * "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
 **MICROAGGRESSION**
