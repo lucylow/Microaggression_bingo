@@ -60,7 +60,7 @@ A bingo board mobile application.
 * I do not have any learning disabilities.
 * I do not have any physical disabilities.
 * I have never been shamed for my body type.
-* I can afford a therapist.
+* I can afford a therapist. 
 * I am not nervous in airport secuity lines.
 * You have never heard this statement: "You have been randomly selected for secondary passport control".
 
