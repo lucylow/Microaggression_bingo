@@ -5,7 +5,7 @@ A bingo board mobile application.
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/win%20state%202.png)
 
 ## Slogan &#x1F49C;
-"Death by a thousand papercuts."
+"Death by a thousand papercuts." (ಥ﹏ಥ)	
 
 ## Technical: How it works  &#x1F49C;
 * **HTML5 + CSS3** 
