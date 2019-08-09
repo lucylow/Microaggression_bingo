@@ -1,6 +1,6 @@
 # Microaggression Bingo &#x1F49C;
 
-<div align="center">
+<div>
   
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
