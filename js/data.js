@@ -1,7 +1,7 @@
 
 var headerText = "Microaggression Bingo";
 
-var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'> PATRIARCHY: A cultural construct in which old, rich, white, straight, cisgender, able-bodied, christian men are valued more than minority groups.</a>";
+var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'> Source Code by LUCYLOW can be found here.</a>";
 
 var winText = "Winner Winner Privilege Dinner";
 
