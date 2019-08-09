@@ -1,6 +1,7 @@
 # Microaggression Bingo &#x1F49C;
 A bingo board mobile application. 
 **Let's play the privilege game?**
+Click here: https://lucylow.github.io/Microaggression_bingo/
 
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/win%20state%202.png)
 
