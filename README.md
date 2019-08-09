@@ -1,4 +1,14 @@
 # Microaggression Bingo &#x1F49C;
+
+<div align="center">
+  
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
+  [![License](https://img.shields.io/bower/l/bootstrap)]()
+
+</div>
+
 A bingo board mobile application. 
 **Let's play the privilege game?**
 Click here: https://lucylow.github.io/Microaggression_bingo/
