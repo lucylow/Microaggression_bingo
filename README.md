@@ -76,5 +76,8 @@ Click here: https://lucylow.github.io/Microaggression_bingo/
 * You have never heard this statement: "You have been randomly selected for secondary passport control".
 
 ## References &#x1F49C;
-* https://www.buzzfeed.com/regajha/how-privileged-are-you
-* https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
+* How Priviledged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
+* Top 10 Male Names: https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
+* Games on Facebook : https://developers.facebook.com/docs/games/gamesonfacebook/
+* https://developers.facebook.com/docs/sharing/ * https://developers.facebook.com/docs/plugins/
+
