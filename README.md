@@ -16,6 +16,9 @@
 * Slogan == **Death by a thousand papercuts**.
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
+![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/microaggression_mini_logo.png)
+
+
 ## Definitions &#x1F49C;
 
 **PATRIARCHY**
@@ -54,7 +57,7 @@
   * Audio mp3s for bingo sounds
   
 * **Javascript + jQuery**
-  * Game reads customized .json **square microagression data from data.js file** 
+  * Game reads customized .json **square microagression data** from data.js file
   * Content randomizes reload for new game each time 
   * Win state **checks data attributes** for winning bingo conditions
   * End game at "**Winner Winner Privilege Dinner**" popup
@@ -63,7 +66,7 @@
 
 ## Technical: Facebook Developer Product Integration &#x1F49C;
 
-* HTML5
+* HTML5 Games
   * **Multi-platform devices** for accessible gaming experience
   * Integrates into new platforms like FB instant Games, or Wechat
   * Disadvantages: Graphical fidelity + Performance not as good as native + Battery life may suffer
@@ -80,7 +83,8 @@
   * Integrates with **Facebook Analytics** - requires *{your-app-id} and *{api-version}.
   
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/FB%20Continue%20as%20John.png)
-  (FB's login button - Continue as *John.)
+  
+  (FB's developer login button example - Continue as *John.)
   
 ---
   
