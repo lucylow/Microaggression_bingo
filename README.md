@@ -24,21 +24,27 @@
 
 ## Definitions &#x1F49C;
 
+
 **PATRIARCHY**
 * "A cultural construct in which **old, rich, white, straight, cisgender, able-bodied, christian men** are valued more than minority groups."
 * "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
+
 **MICROAGGRESSION**
 * "Daily verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
+
 
 ---
 
 ## Screenshot of Game &#x1F49C;
+
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
 
-(Image. Screenshot of Microaggression Bingo game state. User matched five data boxes in a cross-directional row which **triggers the win state** . The popup **"Winner Winner Privilege Dinner"** with **win.mp3 audio** appears from the top of the game window.)
+(Image. Screenshot of Microaggression Bingo game state. **User matched five data boxes** in a cross-directional row which **triggers the win state** . The popup **"Winner Winner Privilege Dinner"** with **win.mp3 audio** appears from the top of the game window.)
+
 
 ## Categories [Config in bingo.options] &#x1F49C;
+
 * Basic bingo board
   * Pink background jpeg
 * Configurations 
@@ -51,20 +57,24 @@
   * Disabilities
 * Intersectionality
 
+
 ---
 
 ## Technical: How it works  &#x1F49C;
+
 
 * **HTML5 + CSS3** 
   * Game transitions and animations
   * **Audio mp3s** for bingo sounds
   * Female voice intro **"Let's play the privilege game?"**
-  
+
+
 * **Javascript + jQuery**
   * Game reads customized .json **square microagression data** from data.js file
   * Content randomizes reload for new game each time 
   * Win state checks data attributes for winning bingo conditions
   * End game at "**Winner Winner Privilege Dinner**" popup
+
 
 ---
 
@@ -75,10 +85,12 @@
   * Integrates into new platforms like **FB instant Games**, or **Wechat**
   * Disadvantages: Graphical fidelity + Performance not as good as native + Battery life may suffer
     
+    
 * Facebook Instant Games
   * Bingo Board Web application hosting on Facebook Web Games
   * Instant Games bundle configuration in **fbapp-config.json** 
   * **Easily publishes game to app store** for users around the world
+  
   
 * Facebook Login
   * **Two-tap account creation** using Facebook-Profile
@@ -86,17 +98,21 @@
   * Asynchronously loads login in game, does not block loading other elements
   * Integrates with **Facebook Analytics** - requires *{your-app-id} and *{api-version}.
   
+  
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   (Image. Screenshot of a **documentation page from Facebook for Developers**. Pictured is an example of the FB's Continue as {Name} button. **The {Name} used is surprisingly *John.**)
   
+  
 ---
   
 ## Technical: User Privacy Considerations &#x1F49C;
+
 * HTML5 Local Storage Data
   * Bingo cache stores data on user's local device
   * **Data.js information is removed when user clears cache**
   * Storage.setItem( 'game_state', JSON.stringify(gameState));
+
 
 * User.js File
   * **User.js file** added for user privacy 
@@ -106,6 +122,7 @@
 
 
 ---
+
 
 ## Bingo Examples &#x1F49C;
 
@@ -120,7 +137,9 @@
 * I do not have any learning or physical disabilities.
 * You have never heard this statement: "You have been randomly selected for secondary passport control".
 
+
 ---
+
 
 ## References &#x1F49C;
 * How Priviledged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
