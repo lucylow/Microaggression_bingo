@@ -11,10 +11,10 @@
 
 ---
 ## Game &#x1F49C;
-* A HTML5 bingo board mobile application exploring social justice and privilege.
-* Participate in a fun, safe, and "inviting" bingo game that "welcomes" players of diverse backgrounds.
-* Slogan : **Death by a thousand papercuts**.
-* **Let's play the privilege game?** Click here: https://lucylow.github.io/Microaggression_bingo/
+* A HTML5 bingo board mobile application exploring **social justice** and **privilege**.
+* Participate in a fun, safe, and *inclusive bingo game that *welcomes players of diverse backgrounds.
+* Slogan == **Death by a thousand papercuts**.
+* Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
 ## Definitions &#x1F49C;
 
@@ -27,11 +27,10 @@
 
 ---
 
-## Picture of Game 
+## Screenshot of Game &#x1F49C;
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/win%20state%202.png)
-(Image of winning board game state)
 
----
+(Image of winning bingo board game state)
 
 ## Categories [Config in bingo.options] &#x1F49C;
 * Basic bingo board
@@ -55,51 +54,48 @@
   * Audio mp3s for bingo sounds
   
 * **Javascript + jQuery**
-  * Game reads square microagression data from data.js file 
+  * Game reads customized .json **square microagression data from data.js file** 
   * Content randomizes reload for new game each time 
-  * Win state checks data attributes for winning bingo conditions
+  * Win state **checks data attributes** for winning bingo conditions
   * End game at "**Winner Winner Privilege Dinner**" popup
-  * Customize .json data in data.js file
 
 ---
 
-## Technical: Facebook Developer Product Integration 
+## Technical: Facebook Developer Product Integration &#x1F49C;
 
 * HTML5
-  * User can play games across **multi-platform devices** for accessible gaming experience
+  * **Multi-platform devices** for accessible gaming experience
   * Integrates into new platforms like FB instant Games, or Wechat
-  * Web assembly binary format for code executed in web browser
   * Disadvantages: Graphical fidelity + Performance not as good as native + Battery life may suffer
     
 * Facebook Instant Games
-  * **Bino Board Web application hosting** on Facebook Web Games
-  * Uploaded HTML5 related assets (html,css,images,etc) via external hosting
-  * Instant Games bundle **configuration in fbapp-config.json** file 
+  * Bingo Board Web application hosting on Facebook Web Games
+  * Instant Games bundle configuration in **fbapp-config.json** 
   * **Easily publishes game to app store** for users around the world
   
 * Facebook Login
   * **Two-tap account creation** using Facebook-Profile
   * User does not need to create a password for account creation
-  * Javascript code in **HTML asynchronously loads Facebook SDK into game**, does not block loading other elements on pages.
-  * Integrates with **Facebook Analytics** - requires {your-app-id} and {api-version}.
+  * Asynchronously loads login in game, does not block loading other elements
+  * Integrates with **Facebook Analytics** - requires *{your-app-id} and *{api-version}.
   
   
 ---
   
-## Technical: User Privacy Considerations
+## Technical: User Privacy Considerations &#x1F49C;
 * HTML5 Local Storage Data
   * Bingo cache stores data on user's local device
   * **Data.js information is removed when user clears cache**
   * Storage.setItem( 'game_state', JSON.stringify(gameState));
 
 * User.js File
-  * **user.js file** added for user privacy 
-  * Javascript file template for configuring privacy and security 
+  * **User.js file** added for user privacy 
+  * Javascript file template for **configuring privacy and security**
 
 
 ---
 
-## Examples &#x1F49C;
+## Bingo Examples &#x1F49C;
 
 * I am white.
 * I am a man.
