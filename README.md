@@ -18,7 +18,7 @@
 
 
   <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
-
+  (Image. Microaggression mini logo "Winner Winner Privilge Dinner". A 250x250 pixel logo.)
 
 
 
@@ -36,7 +36,7 @@
 ## Screenshot of Game &#x1F49C;
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
 
-(Image of winning bingo board game state)
+(Image. Screenshot of Microaggression Bingo game state. User matched five data boxes in a cross-directional row which trigers the win state. The popup "Winner Winner Privilege dinner" with win.mp3 audio appears from the top of the window.)
 
 ## Categories [Config in bingo.options] &#x1F49C;
 * Basic bingo board
@@ -63,7 +63,7 @@
 * **Javascript + jQuery**
   * Game reads customized .json **square microagression data** from data.js file
   * Content randomizes reload for new game each time 
-  * Win state **checks data attributes** for winning bingo conditions
+  * Win state checks data attributes for winning bingo conditions
   * End game at "**Winner Winner Privilege Dinner**" popup
 
 ---
@@ -88,7 +88,7 @@
   
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
-  (FB's developer login button example - Continue as *John.)
+  (Image. Screenshot of a documentation page from Facebook for Developers. Pictured is an example of the FB's Continue as {Name} button. The {Name} used is surprisingly *John.)
   
 ---
   
