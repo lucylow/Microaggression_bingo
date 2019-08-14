@@ -15,13 +15,13 @@
 ## Game &#x1F49C;
 
 * A HTML5 bingo board mobile application exploring **social justice** and **privilege**
-* Participate in a fun, safe, and *inclusive bingo game that *welcomes players of diverse backgrounds
+* Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds
 * Slogan == **Death by a thousand papercuts**
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
   <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
   
-  (Image. Microaggression mini logo **"Winner Winner Privilege Dinner"**. 250 x 250 pixel logo.)
+  *Image. Microaggression mini logo **"Winner Winner Privilege Dinner"**. 250 x 250 pixel logo.*
 
 ---
 
@@ -45,7 +45,7 @@
 
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
 
-(Image. Screenshot of Microaggression Bingo game state. **User matched five data boxes** in a cross-directional row which **triggers the win state** . The popup **"Winner Winner Privilege Dinner"** with **win.mp3 audio** appears from the top of the game window.)
+*Image. Screenshot of Microaggression Bingo game state. **User matched five data boxes** in a cross-directional row which **triggers the win state** . The popup **"Winner Winner Privilege Dinner"** with **win.mp3 audio** appears from the top of the game window.*
 
 
 ---
@@ -105,14 +105,14 @@
   * **Two-tap account creation** using Facebook-Profile
   * User does not need to create a password for account creation
   * Asynchronously loads login in game, does not block loading other elements
-  * Integrates with **Facebook Analytics** - requires *{your-app-id} and *{api-version}.
+  * Integrates with **Facebook Analytics** - requires *{your-app-id}* and *{api-version}*
   * Refer to documentation page from **Facebook for Developers** below:
  
   
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  (Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is surprisingly John!**)
+  *Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is surprisingly John!***
   
   
 ---
