@@ -79,6 +79,8 @@
   * Asynchronously loads login in game, does not block loading other elements
   * Integrates with **Facebook Analytics** - requires *{your-app-id} and *{api-version}.
   
+  ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/FB%20Continue%20as%20John.png)
+  (FB's login button - Continue as *John.)
   
 ---
   
