@@ -17,7 +17,7 @@
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
 
-  <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/microaggression_mini_logo.png" width="250" height="250">
+  <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
 
 
 
@@ -34,7 +34,7 @@
 ---
 
 ## Screenshot of Game &#x1F49C;
-![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/win%20state%202.png)
+![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
 
 (Image of winning bingo board game state)
 
@@ -86,7 +86,7 @@
   * Asynchronously loads login in game, does not block loading other elements
   * Integrates with **Facebook Analytics** - requires *{your-app-id} and *{api-version}.
   
-  ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/FB%20Continue%20as%20John.png)
+  ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   (FB's developer login button example - Continue as *John.)
   
