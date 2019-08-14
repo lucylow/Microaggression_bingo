@@ -100,7 +100,9 @@
 
 * User.js File
   * **User.js file** added for user privacy 
-  * Javascript file template for **configuring privacy and security**
+  * Template for **configuring privacy and security**
+  * Reduce tracking from web analytics, tracking, finger-printing, or shoulder surfers
+  * **Harden browser settings** against data disclosure or code execution vulnerabilities
 
 
 ---
@@ -124,6 +126,7 @@
 * How Priviledged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
 * Top 10 Male Names: https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
 * Developers Circles 2019: https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
+* User.JS file : https://github.com/pyllyukko/user.js/tree/relaxed
 * Facebook Instant Games: https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
 * Facebook Login Integration: https://developers.facebook.com/docs/facebook-login/web
 
