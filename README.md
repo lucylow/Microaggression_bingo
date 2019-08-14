@@ -18,7 +18,7 @@
 
   <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
   
-  (Image. Microaggression mini logo "Winner Winner Privilge Dinner". A 250x250 pixel logo.)
+  (Image. Microaggression mini logo **"Winner Winner Privilege Dinner"**. 250 x 250 pixel logo.)
 
 
 
@@ -36,7 +36,7 @@
 ## Screenshot of Game &#x1F49C;
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
 
-(Image. Screenshot of Microaggression Bingo game state. User matched five data boxes in a cross-directional row which trigers the win state. The popup "Winner Winner Privilege dinner" with win.mp3 audio appears from the top of the window.)
+(Image. Screenshot of Microaggression Bingo game state. User matched five data boxes in a cross-directional row which **triggers the win state** . The popup **"Winner Winner Privilege Dinner"** with **win.mp3 audio** appears from the top of the game window.)
 
 ## Categories [Config in bingo.options] &#x1F49C;
 * Basic bingo board
@@ -57,8 +57,8 @@
 
 * **HTML5 + CSS3** 
   * Game transitions and animations
-  * Audio mp3s for bingo sounds
-  * Female voice intro "Let's play the privilege game?"
+  * **Audio mp3s** for bingo sounds
+  * Female voice intro **"Let's play the privilege game?"**
   
 * **Javascript + jQuery**
   * Game reads customized .json **square microagression data** from data.js file
@@ -72,7 +72,7 @@
 
 * HTML5 Games
   * **Multi-platform devices** for accessible gaming experience
-  * Integrates into new platforms like FB instant Games, or Wechat
+  * Integrates into new platforms like **FB instant Games**, or **Wechat**
   * Disadvantages: Graphical fidelity + Performance not as good as native + Battery life may suffer
     
 * Facebook Instant Games
@@ -88,7 +88,7 @@
   
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
-  (Image. Screenshot of a documentation page from Facebook for Developers. Pictured is an example of the FB's Continue as {Name} button. The {Name} used is surprisingly *John.)
+  (Image. Screenshot of a **documentation page from Facebook for Developers**. Pictured is an example of the FB's Continue as {Name} button. **The {Name} used is surprisingly *John.**)
   
 ---
   
