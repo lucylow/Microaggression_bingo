@@ -21,7 +21,7 @@
 
   <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
   
-  *Image. Microaggression mini logo **"Winner Winner Privilege Dinner"**. 250 x 250 pixel logo.*
+  *Image. Microaggression mini logo **"Winner Winner Privilege Dinner"**.*
 
 ---
 
