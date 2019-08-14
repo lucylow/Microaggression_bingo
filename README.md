@@ -11,13 +11,13 @@
 
 ---
 ## Game &#x1F49C;
-* A HTML5 bingo board mobile application exploring **social justice** and **privilege**.
-* Participate in a fun, safe, and *inclusive bingo game that *welcomes players of diverse backgrounds.
-* Slogan == **Death by a thousand papercuts**.
+* A HTML5 bingo board mobile application exploring **social justice** and **privilege**
+* Participate in a fun, safe, and *inclusive bingo game that *welcomes players of diverse backgrounds
+* Slogan == **Death by a thousand papercuts**
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
-
   <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
+  
   (Image. Microaggression mini logo "Winner Winner Privilge Dinner". A 250x250 pixel logo.)
 
 
@@ -58,7 +58,7 @@
 * **HTML5 + CSS3** 
   * Game transitions and animations
   * Audio mp3s for bingo sounds
-  * Women's voice for : "Let's play the privilege game?"
+  * Female voice intro "Let's play the privilege game?"
   
 * **Javascript + jQuery**
   * Game reads customized .json **square microagression data** from data.js file
