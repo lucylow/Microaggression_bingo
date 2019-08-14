@@ -58,6 +58,7 @@
 * **HTML5 + CSS3** 
   * Game transitions and animations
   * Audio mp3s for bingo sounds
+  * Women's voice for : "Let's play the privilege game?"
   
 * **Javascript + jQuery**
   * Game reads customized .json **square microagression data** from data.js file
