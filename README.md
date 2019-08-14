@@ -1,3 +1,5 @@
+---
+
 # Microaggression Bingo &#x1F49C;
 
 <div>
@@ -20,7 +22,7 @@
   
   (Image. Microaggression mini logo **"Winner Winner Privilege Dinner"**. 250 x 250 pixel logo.)
 
-
+---
 
 ## Definitions &#x1F49C;
 
