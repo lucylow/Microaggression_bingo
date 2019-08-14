@@ -16,8 +16,8 @@
 * Slogan == **Death by a thousand papercuts**.
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
-![Mini logo](https://github.com/lucylow/Microaggression_bingo/blob/master/microaggression_mini_logo.png =250x250)
 
+<img src="https://github.com/lucylow/Microaggression_bingo/blob/master/microaggression_mini_logo.png" width="250" height="250">
 
 
 
