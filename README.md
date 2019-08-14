@@ -55,7 +55,7 @@
 * **Basic bingo board**
   * Pink background jpeg
   
-* **Configurations **
+* **Configurations**
   * Gender
   * Race
   * Age
