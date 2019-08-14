@@ -45,10 +45,10 @@
 
 ## Categories [Config in bingo.options] &#x1F49C;
 
-* Basic bingo board
+* **Basic bingo board**
   * Pink background jpeg
   
-* Configurations 
+* **Configurations **
   * Gender
   * Race
   * Age
@@ -57,7 +57,7 @@
   * Religion
   * Disabilities
   
-* Intersectionality
+* **Intersectionality**
 
 
 ---
@@ -82,19 +82,19 @@
 
 ## Technical: Facebook Developer Product Integration &#x1F49C;
 
-* HTML5 Games
+* **HTML5 Games**
   * **Multi-platform devices** for accessible gaming experience
   * Integrates into new platforms like **FB instant Games**, or **Wechat**
   * Disadvantages: Graphical fidelity + Performance not as good as native + Battery life may suffer
     
     
-* Facebook Instant Games
+* **Facebook Instant Games**
   * Bingo Board Web application hosting on Facebook Web Games
   * Instant Games bundle configuration in **fbapp-config.json** 
   * **Easily publishes game to app store** for users around the world
   
   
-* Facebook Login
+* **Facebook Login**
   * **Two-tap account creation** using Facebook-Profile
   * User does not need to create a password for account creation
   * Asynchronously loads login in game, does not block loading other elements
@@ -105,20 +105,20 @@
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  (Image. Screenshot of a **documentation page from Facebook for Developers**. Pictured is an example of the FB's Continue as {Name} button. **The {Name} used is surprisingly *John.**)
+  (Image. Screenshot of a **documentation page** from **Facebook for Developers**. Pictured is an example of the FB's Continue as {Name} button. The **{Name}** used is surprisingly ***John.**)
   
   
 ---
   
 ## Technical: User Privacy Considerations &#x1F49C;
 
-* HTML5 Local Storage Data
+* **HTML5 Local Storage Data**
   * Bingo cache stores data on user's local device
   * **Data.js information is removed when user clears cache**
   * Storage.setItem( 'game_state', JSON.stringify(gameState));
 
 
-* User.js File
+* **User.js File**
   * **User.js file** added for user privacy 
   * Template for **configuring privacy and security**
   * Reduce tracking from web analytics, tracking, finger-printing, or shoulder surfers
