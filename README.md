@@ -25,12 +25,12 @@
 ## Definitions &#x1F49C;
 
 
-**PATRIARCHY**
+**Patriarchy**
 * "A cultural construct in which **old, rich, white, straight, cisgender, able-bodied, christian men** are valued more than minority groups."
 * "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
 
-**MICROAGGRESSION**
+**Microaggression**
 * "Daily verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
@@ -47,6 +47,7 @@
 
 * Basic bingo board
   * Pink background jpeg
+  
 * Configurations 
   * Gender
   * Race
@@ -55,6 +56,7 @@
   * LGBT
   * Religion
   * Disabilities
+  
 * Intersectionality
 
 
@@ -99,7 +101,9 @@
   * Integrates with **Facebook Analytics** - requires *{your-app-id} and *{api-version}.
   
   
+  
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
+  
   
   (Image. Screenshot of a **documentation page from Facebook for Developers**. Pictured is an example of the FB's Continue as {Name} button. **The {Name} used is surprisingly *John.**)
   
@@ -126,6 +130,7 @@
 
 ## Bingo Examples &#x1F49C;
 
+
 * I am white.
 * I am a man.
 * My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas,** or **Chris**]
@@ -142,6 +147,8 @@
 
 
 ## References &#x1F49C;
+
+
 * How Priviledged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
 * Top 10 Male Names: https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
 * Developers Circles 2019: https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
