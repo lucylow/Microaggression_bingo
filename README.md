@@ -69,6 +69,24 @@
 
 ---
 
+
+## Bingo Examples &#x1F49C;
+
+
+* I am white.
+* I am a man.
+* My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas,** or **Chris**]
+* I have never felt unsafe because of my gender, been catcalled, or raped.
+* I have never been asked "So where are you REALLY from?", or "Why don't you have an accent?".
+* I have never been a victim of violence because of my race.
+* **I was not bullied as a child for any of my identities. :(**
+* I have never been called fag/dyke/fairy or any other derogatory slur for homosexuals.
+* I do not have any learning or physical disabilities.
+* You have never heard this statement: "You have been randomly selected for secondary passport control".
+
+
+---
+
 ## Technical: How it works  &#x1F49C;
 
 
@@ -131,23 +149,6 @@
   * Reduce tracking from web analytics, tracking, finger-printing, or shoulder surfers
   * **Harden browser settings** against data disclosure or code execution vulnerabilities
 
-
----
-
-
-## Bingo Examples &#x1F49C;
-
-
-* I am white.
-* I am a man.
-* My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas,** or **Chris**]
-* I have never felt unsafe because of my gender, been catcalled, or raped.
-* I have never been asked "So where are you REALLY from?", or "Why don't you have an accent?".
-* I have never been a victim of violence because of my race.
-* **I was not bullied as a child for any of my identities. :(**
-* I have never been called fag/dyke/fairy or any other derogatory slur for homosexuals.
-* I do not have any learning or physical disabilities.
-* You have never heard this statement: "You have been randomly selected for secondary passport control".
 
 
 ---
