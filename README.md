@@ -112,7 +112,7 @@
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  (Image. Screenshot of the Facebook's "Continue as {Name} Button". The **{Name} used is *surprisingly John!**)
+  (Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is surprisingly John!**)
   
   
 ---
@@ -121,7 +121,7 @@
 
 * **HTML5 Local Storage Data**
   * Bingo cache stores data on user's local device
-  * **Data.js information is removed when user clears cache
+  * **Data.js information is removed when user clears cache**
   * Storage.setItem( 'game_state', JSON.stringify(gameState));
 
 
