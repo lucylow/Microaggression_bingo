@@ -17,7 +17,7 @@
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
 
-<img src="https://github.com/lucylow/Microaggression_bingo/blob/master/microaggression_mini_logo.png" width="250" height="250">
+  <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/microaggression_mini_logo.png" width="250" height="250">
 
 
 
