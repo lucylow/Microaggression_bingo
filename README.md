@@ -1,4 +1,6 @@
 # Microaggression Bingo &#x1F49C;
+ 
+"**Death by a thousand papercuts**" // "**Winner Winner Privilege Dinner**"
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
@@ -8,8 +10,7 @@
 ---
 ## Game &#x1F49C;
 
-* A HTML5 bingo board mobile application exploring **social justice** and **privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds
-* **Slogan == Death by a thousand papercuts**
+* A HTML5 bingo board mobile application exploring **social justice** and **privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
 * Let's play the privilege game? [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
 
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
@@ -32,15 +33,15 @@
 **Microaggression**
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
-**Privilege Race Video**
-* **How do you explain privilege to those who don't see it?** A teacher tells his students they're going to have a race and the winner will recieve a $100 bill but some students get a head start on this race:
+**Explain Privilege to those who do not see it:**
+* Teacher tells his students they are having a race and winner will recieve $100 bill, but **some students get a head start** on this race:
 
 
   <a href="https://www.youtube-nocookie.com/embed/4K5fbQ1-zps
 " target="_blank"><img src="http://img.youtube.com/vi/4K5fbQ1-zps/0.jpg" 
 alt="Video to provoke discussion and understanding" width="240" height="180" border="10" /></a>
 
-  (Video. **”Every statement I’ve made has nothing to do with anything any of you have done.** We all know these people up here have a better opportunity to win this hundred dollars. We would be fools to not realize we’ve been given more opportunity.” )
+  *(Video. **”Every statement I’ve made has nothing to do with anything any of you have done.** We all know these people up here have a better opportunity to win this $100 bill.”)*
 
 
 ---
@@ -51,7 +52,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
 
 
-*Image. Screenshot of Microaggression Bingo game state. **User matched five data boxes** in a cross-directional row which **triggers the win state**. The popup **"Winner Winner Privilege Dinner"** with **win.mp3 audio** appears from the top of the game window.*
+*Image. **User triggers the win state by matching five boxes in a row**. The popup **"Winner Winner Privilege Dinner"** appears and **win.mp3 audio** is played.*
 
 
 ---
