@@ -139,14 +139,12 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
     
     
 * **Facebook Instant Games**
-  * Bingo Board Web application hosting on Facebook Web Games
-  * Instant Games bundle configuration in **fbapp-config.json** 
+  * Web Instant Games bundle configuration in **fbapp-config.json** 
   * Easily publishes game to **app store** for users around the world
   
   
 * **Facebook Login**
   * **Two-tap account creation** using Facebook-Profile
-  * User does not need to create a password for account creation
   * Asynchronously loads login in game, does not block loading other elements
   * Integrates with **Facebook Analytics** - requires *{your-app-id}* and *{api-version}*
   * Refer to documentation page from **Facebook for Developers** below:
