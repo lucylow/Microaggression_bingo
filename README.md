@@ -9,8 +9,8 @@
     
 ---
 ## Table_of_Contents_&#x1F49C;
-* [Game](#Game_&#x1F49C)
-* [Definitions](#Definitions_&#x1F49C)
+* [Game](#game_)
+* [Definitions](#definitions-)
     * Patriarchy
     * Microaggression
     * Explain Privilege Video
