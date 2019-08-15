@@ -1,15 +1,20 @@
 ---
+<p align="center">
+  <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
+</p>
+
+<p align="center">
 
 # Microaggression Bingo &#x1F49C;
 
-<div>
-  
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
-  [![License](https://img.shields.io/cran/l/devtools)]()
+  <div align="center">
+    [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+    [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
+    [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
+    [![License](https://img.shields.io/cran/l/devtools)]()
+  </div>
 
-</div>
+</p>
 
 ---
 ## Game &#x1F49C;
@@ -18,11 +23,7 @@
 * Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds
 * Slogan == **Death by a thousand papercuts**
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
-
-  <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
   
-  *Image. Microaggression mini logo **"Winner Winner Privilege Dinner"**.*
-
 ---
 
 ## Definitions &#x1F49C;
