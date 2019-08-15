@@ -1,4 +1,4 @@
-# Microaggression Bingo &#x1F49C;
+# Microaggresion_Bingo_&#x1F49C;
  
 "**Death by a thousand papercuts**" // "**Winner Winner Privilege Dinner**"
 
@@ -8,7 +8,7 @@
   [![License](https://img.shields.io/cran/l/devtools)]()
     
 ---
-## Table of Contents
+## Table_of_Contents_&#x1F49C;
 * [Game](#Game_&#x1F49C)
 * [Definitions](#Definitions_&#x1F49C)
     * Patriarchy
