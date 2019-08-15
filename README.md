@@ -11,15 +11,15 @@
 
 ## Table_of_Contents &#x1F49C;
 
-* [Game](#game)
-* [Definitions](#definitions)
-* [Screenshot_of_Game](#screenshot_of_game)
-* [Categories](#categories_config-in-bingooptions)
-* [Bingo_Examples](#bingo_examples) 
-* [Technical_How_it_works](#technical_how_it_works)
-* [Technical_Facebook_Developer_Product_Integration](#technical_facebook_developer_product_integration)
-* [Technical_User_Privacy_Considerations](#technical_user_privacy_considerations)
-* [References](#references) 
+* [Game](#game-)
+* [Definitions](#definitions-)
+* [Screenshot_of_Game](#screenshot_of_game-)
+* [Categories](#categories_config-in-bingooptions-)
+* [Bingo_Examples](#bingo_examples-) 
+* [Technical_How_it_works](#technical_how_it_works-)
+* [Technical_Facebook_Developer_Product_Integration](#technical_facebook_developer_product_integration-)
+* [Technical_User_Privacy_Considerations](#technical_user_privacy_considerations-)
+* [References](#references-) 
 
 
 ---
@@ -61,7 +61,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## Screenshot_of_Game_&#x1F49C;
+## Screenshot_of_Game &#x1F49C;
 
 
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
