@@ -8,28 +8,17 @@
   [![License](https://img.shields.io/cran/l/devtools)]()
     
 ---
-## Table_of_Contents_&#x1F49C;
+
+## Table_of_Contents &#x1F49C;
+
 * [Game](#game)
 * [Definitions](#definitions)
-    * Patriarchy
-    * Microaggression
-    * Explain Privilege Video
 * [Screenshot_of_Game](#screenshot_of_game)
 * [Categories](#categories_config-in-bingooptions)
-    * Basic bingo board
-    * Configurations
-    * Intersectionality
 * [Bingo_Examples](#bingo_examples) 
 * [Technical_How_it_works](#technical_how_it_works)
-    * HTML5 and CSS3
-    * Javasccript and jQuery
 * [Technical_Facebook_Developer_Product_Integration](#technical_facebook_developer_product_integration)
-    * HTML5 Games
-    * Facebook Instant Games
-    * Facebook Login
 * [Technical_User_Privacy_Considerations](#technical_user_privacy_considerations)
-    * HTML5 Local Storage Data
-    * User.js File
 * [References](#references) 
 
 
