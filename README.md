@@ -48,13 +48,16 @@
 **Microaggression**
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
+
 **Explain Privilege to those who do not see it:**
-* Teacher tells his students they are having a race and winner will recieve $100 bill, but **some students get a head start** on this race:
+* Teacher tells students they are having a race and the winner recieves a prize
+* However, **some students get a head start** on this race
 
 
   <a href="https://www.youtube-nocookie.com/embed/4K5fbQ1-zps
 " target="_blank"><img src="http://img.youtube.com/vi/4K5fbQ1-zps/0.jpg" 
 alt="Video to provoke discussion and understanding" width="240" height="180" border="10" /></a>
+
 
   *(Video. **”Every statement I’ve made has nothing to do with anything any of you have done.** We all know these people up here have a better opportunity to win this $100 bill.”)*
 
