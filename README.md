@@ -13,10 +13,11 @@
 
 * A HTML5 bingo board mobile application exploring **social justice** and **privilege**
 * Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds
-* Slogan == **Death by a thousand papercuts**
+* **Slogan == Death by a thousand papercuts**
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
 
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
+    
     Image. Microaggression mini logo "Winner Winner Privilege Dinner".
 
 
