@@ -34,7 +34,7 @@
 
 **Life of Privilege Explained in a $100 Race Video**
 <a href="https://www.youtube-nocookie.com/embed/4K5fbQ1-zps
-" target="_blank"><img src="http://img.youtube.com/vi/4K5fbQ1/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/4K5fbQ1-zps/0.jpg" 
 alt="Video to provoke discussion and understanding" width="240" height="180" border="10" /></a>
 
 
