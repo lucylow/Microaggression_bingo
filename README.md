@@ -3,7 +3,6 @@
   <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
 </p>
 
-<p align="center">
 
 # Microaggression Bingo &#x1F49C;
 
@@ -14,7 +13,6 @@
     [![License](https://img.shields.io/cran/l/devtools)]()
   </div>
 
-</p>
 
 ---
 ## Game &#x1F49C;
