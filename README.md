@@ -13,7 +13,7 @@
 * [Definitions](#Definitions_&#x1F49C)
     * Patriarchy
     * Microaggression
-    * Explain Privilege to those who do not see it
+    * Explain Privilege Video
 * [Screenshot_of_Game](#Screenshot_of_Game_&#x1F49C)
 * [Categories](#Categories_&#x1F49C)
     * Basic bingo board
@@ -21,8 +21,8 @@
     * Intersectionality
 * [Bingo_Examples](#Bingo_Examples_&#x1F49C) 
 * [Technical_How_it_works](#Technical_How_it_works_&#x1F49C)
-    * HTML5 + CSS3
-    * Javasccript + jQuery
+    * HTML5 and CSS3
+    * Javasccript and jQuery
 * [Technical_Facebook_Developer_Product_Integration](#Technical_Facebook_Developer_Product_Integration_&#x1F49C)
     * HTML5 Games
     * Facebook Instant Games
@@ -34,7 +34,7 @@
 
 
 ---
-## Game_&#x1F49C;
+### Game_&#x1F49C;
 
 * A HTML5 bingo board mobile application exploring **social justice** and **privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
 * Let's play the privilege game? [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
