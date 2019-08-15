@@ -5,7 +5,7 @@
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
-  [![License](https://img.shields.io/cran/l/devtools)]()
+  [!. cense](https://img.shields.io/cran/l/devtools)]()
     
 ---
 
@@ -23,10 +23,9 @@
 
 
 ---
-### Game &#x1F49C;
-
+### Game &#x1F49. 
 * A HTML5 bingo board mobile application exploring **social justice** and **privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
-* Let's play the privilege game? [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
+* **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
 
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250"> </a>
@@ -49,10 +48,8 @@
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
-**Explain Privilege to those who do not see it:**
-* Teacher tells students they are having a race and the winner recieves a prize
-* However, **some students get a head start** on this race
-
+**Explain Privilege to those who do not see it**
+* Teacher tells students they are having a race and the winner recieves a prize. However, **some students get a head start** on this race:
 
   <a href="https://www.youtube-nocookie.com/embed/4K5fbQ1-zps
 " target="_blank"><img src="http://img.youtube.com/vi/4K5fbQ1-zps/0.jpg" 
