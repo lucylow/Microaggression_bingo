@@ -9,34 +9,32 @@
     
 ---
 ## Table of Contents
-* [Game](#Game)
-* [Definitions](#Definitions)
+* [Game](#Game_&#x1F49C)
+* [Definitions](#Definitions_&#x1F49C)
     * Patriarchy
     * Microaggression
     * Explain Privilege to those who do not see it
-* [Screenshot of Game](#Screenshot of Game)
-* [Categories](#Categories)
+* [Screenshot_of_Game](#Screenshot_of_Game_&#x1F49C)
+* [Categories](#Categories_&#x1F49C)
     * Basic bingo board
     * Configurations
     * Intersectionality
-* [Bingo Examples](#Bingo Examples) 
-* [Technical: How it works](#Technical: How it works)
+* [Bingo_Examples](#Bingo_Examples_&#x1F49C) 
+* [Technical_How_it_works](#Technical_How_it_works_&#x1F49C)
     * HTML5 + CSS3
     * Javasccript + jQuery
-* [Technical: Facebook Developer Product Integration](#Technical: Facebook Developer Product Integration)
+* [Technical_Facebook_Developer_Product_Integration](#Technical_Facebook_Developer_Product_Integration_&#x1F49C)
     * HTML5 Games
     * Facebook Instant Games
     * Facebook Login
-* [Technical: User Privacy Considerations](#Technical: User Privacy Considerations)
+* [Technical_User_Privacy_Considerations](#Technical_User_Privacy_Considerations_&#x1F49C)
     * HTML5 Local Storage Data
     * User.js File
-* [References](#References) 
-
-
+* [References](#References_&#x1F49C) 
 
 
 ---
-## Game &#x1F49C;
+## Game_&#x1F49C;
 
 * A HTML5 bingo board mobile application exploring **social justice** and **privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
 * Let's play the privilege game? [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
@@ -74,7 +72,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## Screenshot of Game &#x1F49C;
+## Screenshot_of_Game_&#x1F49C;
 
 
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
@@ -85,7 +83,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## Categories [Config in bingo.options] &#x1F49C;
+## Categories_[Config in bingo.options]_&#x1F49C;
 
 * **Basic bingo board**
   * Pink background jpeg
@@ -105,7 +103,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 ---
 
 
-## Bingo Examples &#x1F49C;
+## Bingo_Examples_&#x1F49C;
 
 
 * I am white.
@@ -122,7 +120,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## Technical: How it works  &#x1F49C;
+## Technical_How_it_works_&#x1F49C;
 
 
 * **HTML5 + CSS3** 
@@ -140,7 +138,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## Technical: Facebook Developer Product Integration &#x1F49C;
+## Technical_Facebook_Developer_Product_Integration_&#x1F49C;
 
 * **HTML5 Games**
   * **Multi-platform devices** for accessible gaming experience
@@ -170,7 +168,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   
 ---
   
-## Technical: User Privacy Considerations &#x1F49C;
+## Technical_User_Privacy_Considerations_&#x1F49C;
 
 * **HTML5 Local Storage Data**
   * Bingo cache stores data on user's local device
@@ -189,7 +187,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 ---
 
 
-## References &#x1F49C;
+## References_&#x1F49C;
 
 
 * How Priviledged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
