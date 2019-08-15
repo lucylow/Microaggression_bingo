@@ -1,20 +1,11 @@
----
-<p align="center">
-  <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
-</p>
-
-
 # Microaggression Bingo &#x1F49C;
 
-
-<div>
-  
-    [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-    [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
-    [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
-    [![License](https://img.shields.io/cran/l/devtools)]()
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/pulls)
+  [![License](https://img.shields.io/cran/l/devtools)]()
     
-</div>
+
 
 
 ---
@@ -22,8 +13,14 @@
 
 * A HTML5 bingo board mobile application exploring **social justice** and **privilege**
 * Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds
-* Slogan == **Death by a thousand papercuts**
+* **Slogan == Death by a thousand papercuts**
 * Let's play the privilege game? https://lucylow.github.io/Microaggression_bingo/
+
+    <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250">
+    
+    Image. Microaggression mini logo "Winner Winner Privilege Dinner".
+
+
   
 ---
 
@@ -44,8 +41,8 @@
 ## Screenshot of Game &#x1F49C;
 
 
-
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
+
 
 *Image. Screenshot of Microaggression Bingo game state. **User matched five data boxes** in a cross-directional row which **triggers the win state** . The popup **"Winner Winner Privilege Dinner"** with **win.mp3 audio** appears from the top of the game window.*
 
