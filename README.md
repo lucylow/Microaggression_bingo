@@ -152,7 +152,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  *Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is surprisingly John!***
+  *Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!***](#definitions-)
   
   
 ---
