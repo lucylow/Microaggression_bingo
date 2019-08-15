@@ -35,6 +35,7 @@
 **Microaggression**
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4K5fbQ1-zps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
