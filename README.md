@@ -13,12 +13,12 @@
 
 * [Game](#game-)
 * [Definitions](#definitions-)
-* [Screenshot_of_Game](#screenshot_of_game-)
+* [Screenshot of Game](#screenshot_of_game-)
 * [Categories](#categories_config-in-bingooptions-)
-* [Bingo_Examples](#bingo_examples-) 
-* [Technical_How_it_works](#technical_how_it_works-)
-* [Technical_Facebook_Developer_Product_Integration](#technical_facebook_developer_product_integration-)
-* [Technical_User_Privacy_Considerations](#technical_user_privacy_considerations-)
+* [Bingo Examples](#bingo_examples-) 
+* [Technical How it works](#technical_how_it_works-)
+* [Technical Facebook Developer Product Integration](#technical_facebook_developer_product_integration-)
+* [Technical User Privacy Considerations](#technical_user_privacy_considerations-)
 * [References](#references-) 
 
 
