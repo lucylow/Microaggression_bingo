@@ -8,6 +8,34 @@
   [![License](https://img.shields.io/cran/l/devtools)]()
     
 ---
+## Table of Contents
+* [Game](#Game)
+* [Definitions](#Definitions)
+    * Patriarchy
+    * Microaggression
+    * Explain Privilege to those who do not see it
+* [Screenshot of Game](#Screenshot of Game)
+* [Categories](#Categories)
+    * Basic bingo board
+    * Configurations
+    * Intersectionality
+* [Bingo Examples](#Bingo Examples) 
+* [Technical: How it works](#Technical: How it works)
+    * HTML5 + CSS3
+    * Javasccript + jQuery
+* [Technical: Facebook Developer Product Integration](#Technical: Facebook Developer Product Integration)
+    * HTML5 Games
+    * Facebook Instant Games
+    * Facebook Login
+* [Technical: User Privacy Considerations](#Technical: User Privacy Considerations)
+    * HTML5 Local Storage Data
+    * User.js File
+* [References](#References) 
+
+
+
+
+---
 ## Game &#x1F49C;
 
 * A HTML5 bingo board mobile application exploring **social justice** and **privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
