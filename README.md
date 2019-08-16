@@ -23,7 +23,7 @@
 
 
 ---
-### Game &#x1F49. 
+### Game &#x1F49;
 * **A HTML5 bingo board mobile application exploring social justice and privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
 * **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
 
@@ -156,7 +156,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!** Facebook profile image of a white male and child. One can assume he has *"loving husband, father"* on his Twiter bio as well! ](#definitions-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!** Facebook profile image of a white male and child.](#definitions-) One can assume he has *"loving husband, father"* on his Twiter bio as well!
   
   
 ---
@@ -183,8 +183,9 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 ## References &#x1F49C;
 
 
-* How Priviledged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
+* How Privileged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
 * Top 10 Male Names: https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
+* Caroline Criado-Pérez. "Invisble Women: Data Bias in a World Designed for Men"
 * Developers Circles 2019: https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
 * User.JS file : https://github.com/pyllyukko/user.js/tree/relaxed
 * Facebook Instant Games: https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
