@@ -40,20 +40,25 @@
 
 
 **Patriarchy**
+
 * "A cultural construct in which **old, rich, white, straight, cisgender, able-bodied, christian men** are valued more than minority groups."
 * "Special rights, advantages, or immunity granted or available only to a particular person or group."
 
 
 **Microaggression**
+
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
 **Explain Privilege to those who do not see it**
+
 * Teacher tells students they are having a race and the winner recieves a prize. However, **some students get a head start** on this race:
+
 
   <a href="https://www.youtube-nocookie.com/embed/4K5fbQ1-zps
 " target="_blank"><img src="http://img.youtube.com/vi/4K5fbQ1-zps/0.jpg" 
 alt="Video to provoke discussion and understanding" width="240" height="180" border="10" /></a>
+
 
 
   *(Video. **”Every statement I’ve made has nothing to do with anything any of you have done.** We all know these people up here have a better opportunity to win this $100 bill.”)*
@@ -97,6 +102,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 * I am white.
 * I am a man.
+* Native English speaker.
 * My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas,** or **Chris**]
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
@@ -104,7 +110,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * **I was not bullied as a child for any of my identities. :(**
 * I have never been called fag/dyke/fairy or any other derogatory slur for homosexuals.
 * I do not have any learning or physical disabilities.
-* You have never heard this statement: "You have been *randomly selected* for secondary passport control".
+* You have never heard this statement: "You have been **randomly selected** for secondary passport control".
 
 
 ---
@@ -150,7 +156,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  *Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!** Facebook profile image of a white male and child. One can assume he has *"loving husband, father"* on his Twiter bio as well! ](#definitions-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!** Facebook profile image of a white male and child. One can assume he has *"loving husband, father"* on his Twiter bio as well! ](#definitions-)
   
   
 ---
