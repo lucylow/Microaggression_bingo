@@ -1,6 +1,6 @@
 var headerText = "Microaggression Bingo";
 
-var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'> © 2019 Low, Inc. Source code.</a>";
+var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'> © 2019 Low Source code.</a>";
 
 var winText = "Winner Winner Privilege Dinner";
 
