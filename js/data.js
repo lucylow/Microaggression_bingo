@@ -19,12 +19,12 @@ var privledgeSnd = new Audio("audio/privilege.mp3");
 var JSONBingo = {"squares": [
         {"square": "I am white."},
         {"square": "I am a man."},
-        {"square": "My name is James, John, or Robert."},
+        {"square": "My name is John."},
         {"square": "I have never felt unsafe because of my gender."},
         {"square": "I have never been catcalled."},
         {"square": "I have never been raped."},
-        {"square": "I have never been asked: Where are you really from?. "},
-        {"square": "I have never been asked: Why don't you have an accent?."},
+        {"square": "I have never been asked: Where are you really from? "},
+        {"square": "I have never been asked: Why don't you have an accent?"},
         {"square": "I was not bullied as a child for any of my identities. :("},
         {"square": "My parents pay all of my bills."},
         {"square": "I do not rely on public transportation."},
@@ -35,7 +35,7 @@ var JSONBingo = {"squares": [
         {"square": "I do not have any physical disabilities."},
         {"square": "I have never been shamed for my body type."},
         {"square": "I can afford a therapist."},
-        {"square": "My name is Michael, William or David."},
+        {"square": "My name is Michael, William, Robert, or David."},
         {"square": "I am not nervous in airport secuity lines."},
         {"square": "You have never heard: You have been randomly selected for secondary passport control."},
         {"square": "I am Christian."},
@@ -45,7 +45,7 @@ var JSONBingo = {"squares": [
         {"square": "I make more money than professional counterparts of different gender."},    	
         {"square": "I have never gone to bed hungry."}, 
         {"square": "My parents are heterosexual."},    	
-        {"square": "My name is Richard, Joseph, or Chris."},    	
+        {"square": "My name is Richard, Joseph, James, or Chris."},    	
         {"square": "There is a place of worship for my religion in my town."}    	
     ]
 };
