@@ -1,8 +1,8 @@
 var headerText = "Microaggression Bingo";
 
-var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'> © 2019 Low Source code.</a>";
+var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'> © 2019 Low source code</a>";
 
-var winText = "Winner Winner Privilege Dinner";
+var winText = "Winner Winner Privilege Dinner!";
 
 var introSnd = new Audio("audio/lets%20play%20the%20privledge%20game%20intro.mp3");
 
