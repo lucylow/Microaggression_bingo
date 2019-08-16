@@ -1,4 +1,4 @@
-var headerText = "Microaggression Bingo";
+var headerText = "MICROAGRESSION BINGO";
 
 var footerText = "<a href='https://github.com/lucylow/Microaggression_bingo' target='_blank'> © 2019 Low source code</a>";
 
