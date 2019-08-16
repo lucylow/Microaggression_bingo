@@ -150,7 +150,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  *Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!***](#definitions-)
+  *Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!**Facebook profile image of a white male and child. One can assume he has *"loving husband, father"* on his Twiter bio as well! ](#definitions-)
   
   
 ---
