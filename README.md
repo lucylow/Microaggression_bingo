@@ -11,7 +11,7 @@
 
 ## Table_of_Contents &#x1F49C;
 
-* [Game Introduction](#game_introuction-)
+* [Game Intro](#game_intro-)
 * [Social Justice Motivation](#social_justice_motivation-)
 * [Screenshot of Game Strategy](#screenshot_of_game_strategy-)
 * [Categories](#categories_config-in-bingooptions-)
@@ -23,7 +23,7 @@
 
 
 ---
-### Game_Introduction &#x1F49C;
+### Game_Intro &#x1F49C;
 * **A HTML5 bingo board mobile application exploring social justice and privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
 *  HTML5 games are games that users can **play on the web, across devices**. JavaScript can be used to create immersive gaming experiences that are accessible to anyone and can be integrated to platforms like Facebook Instant Games or Wechat.
 * **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
