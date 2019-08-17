@@ -25,6 +25,7 @@
 ---
 ### Game_Introduction &#x1F49C;
 * **A HTML5 bingo board mobile application exploring social justice and privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
+*  HTML5 games are games that users can **play on the web, across devices**. JavaScript can be used to create immersive gaming experiences that are accessible to anyone and can be integrated to platforms like Facebook Instant Games or Wechat.
 * **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
 
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
@@ -156,7 +157,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John!** Facebook profile image of a white male and child. One can assume he has *"loving husband, father"* on his Twiter bio as well!](#definitions-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio as well.](#definitions-)
   
   
 ---
