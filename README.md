@@ -102,7 +102,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 * I am white.
 * I am a man.
-* Native English speaker.
+* I am a native English speaker.
 * My name is one of the following: [**James, John, Robert, Michael, William, David, Richard, Joseph, Thomas,** or **Chris**]
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
