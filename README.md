@@ -11,9 +11,9 @@
 
 ## Table_of_Contents &#x1F49C;
 
-* [Game](#game-)
-* [Definitions](#definitions-)
-* [Screenshot of Game](#screenshot_of_game-)
+* [Game Introduction](#game_introuction-)
+* [Social Justice Motivation](#social_justice_motivation-)
+* [Screenshot of Game Strategy](#screenshot_of_game_strategy-)
 * [Categories](#categories_config-in-bingooptions-)
 * [Bingo Examples](#bingo_examples-) 
 * [Technical How it works](#technical_how_it_works-)
@@ -23,7 +23,7 @@
 
 
 ---
-### Game &#x1F49C;
+### Game_Introduction &#x1F49C;
 * **A HTML5 bingo board mobile application exploring social justice and privilege**. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds!
 * **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
 
@@ -36,7 +36,7 @@
   
 ---
 
-## Definitions &#x1F49C;
+## Social_Justice_Motivation &#x1F49C;
 
 
 **Patriarchy**
@@ -66,7 +66,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## Screenshot_of_Game &#x1F49C;
+## Screenshot_of_Game_Strategy &#x1F49C;
 
 
 ![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
