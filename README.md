@@ -51,7 +51,7 @@
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
-**Explain Privilege to those who do not see it**
+**Explain Privilege to those who do not see it 🇨🇦**
 
 * Teacher tells students they are having a race and the winner recieves a prize. However, **some students get a head start** on this race:
 
@@ -157,7 +157,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio as well.](#definitions-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio as well 🇨🇦](#definitions-)
   
   
 ---
