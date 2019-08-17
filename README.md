@@ -14,7 +14,7 @@
 * [Game Intro](#game_intro-)
 * [Social Justice Motivation](#social_justice_motivation-)
 * [Screenshot of Game Strategy](#screenshot_of_game_strategy-)
-* [Categories](#categories_config-in-bingooptions-)
+* [Bingo Categories](#bingo_categories_config-in-bingooptions-)
 * [Bingo Examples](#bingo_examples-) 
 * [Technical How it works](#technical_how_it_works-)
 * [Technical Facebook Developer Product Integration](#technical_facebook_developer_product_integration-)
@@ -78,7 +78,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## Categories_[Config in bingo.options] &#x1F49C;
+## Bingo_Categories_[Config in bingo.options] &#x1F49C;
 
 * **Basic bingo board**
   * Pink background jpeg
