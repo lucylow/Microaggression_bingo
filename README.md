@@ -33,7 +33,7 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-    *Image. Microaggression mini logo "Winner Winner Privilege Dinner".*
+    *Images. First image, the microaggression mini logo "Winner Winner Privilege Dinner". Second image, a cartoon I drew when I was bored at lunch.*
 
 
   
