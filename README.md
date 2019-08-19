@@ -28,7 +28,7 @@
 * **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
 
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
-    <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250"> </a>
+    <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="350" height="350"> </a>
     
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
