@@ -13,7 +13,6 @@
 
 * [Game Intro](#game_intro-)
 * [Social Justice Motivation](#social_justice_motivation-)
-* [Screenshot of Game Strategy](#screenshot_of_game_strategy-)
 * [Bingo Categories](#bingo_categories_config-in-bingooptions-)
 * [Bingo Examples](#bingo_examples-) 
 * [Technical How it works](#technical_how_it_works-)
@@ -31,6 +30,9 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="250" height="250"> </a>
     
+  <a href="https://lucylow.github.io/Microaggression_bingo/" >
+    <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
+   
     *Image. Microaggression mini logo "Winner Winner Privilege Dinner".*
 
 
@@ -63,17 +65,6 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 
   *(Video. **”Every statement I’ve made has nothing to do with anything any of you have done.** We all know these people up here have a better opportunity to win this $100 bill.”)*
-
-
----
-
-## Screenshot_of_Game_Strategy &#x1F49C;
-
-
-![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
-
-
-*Image. **User triggers the win state by matching five boxes in a row**. The popup **"Winner Winner Privilege Dinner"** appears and **win.mp3 audio** is played.*
 
 
 ---
@@ -131,6 +122,13 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   * Win state checks data attributes for winning bingo conditions
   * End game at "**Winner Winner Privilege Dinner**" popup
 
+
+* **Gameplay Screenshot**
+
+![Picture](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/win%20state%202.png)
+
+
+*Image. **User triggers the win state by matching five boxes in a row**. The popup **"Winner Winner Privilege Dinner"** appears and **win.mp3 audio** is played.*
 
 ---
 
