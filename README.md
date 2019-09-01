@@ -53,7 +53,7 @@
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
-**Explain Privilege to those who do not see it 🇨🇦**
+**Explain Privilege to those who do not see it**
 
 * Teacher tells students they are having a race and the winner recieves a prize. However, **some students get a head start** on this race:
 
