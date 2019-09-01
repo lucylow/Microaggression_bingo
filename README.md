@@ -184,6 +184,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 * How Privileged Are you Buzzfeed Quiz: https://www.buzzfeed.com/regajha/how-privileged-are-you
 * Top 10 Male Names: https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web
+* https://duckduckgo.com/?q=how+to+overthrow+the+patriarchy&t=h_&ia=about
 * Caroline Criado-Pérez. "Invisble Women: Data Bias in a World Designed for Men"
 * Developers Circles 2019: https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
 * User.JS file : https://github.com/pyllyukko/user.js/tree/relaxed
