@@ -92,11 +92,11 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * I am white.
 * I am a man.
 * I am a native English speaker.
-* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John*]**  with extra privilege points for white males named John.
+* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John]**  with extra privilege points for white males named John.
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
 * I have never been a victim of violence because of my race.
-* **I was not bullied as a child for any of my identities. :(**
+* **I was not bullied as a child for any of my identities :(**
 * I have never been called fag/dyke/fairy or any other derogatory slur for homosexuals.
 * I do not have any learning or physical disabilities.
 * You have never heard this statement: "You have been **randomly selected** for secondary passport control".
