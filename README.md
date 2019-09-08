@@ -30,7 +30,7 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-    *Images. A cartoon I drew when I was bored at lunch.*
+    *Image. A cartoon I drew when I was bored at lunch.*
 
 
   
@@ -50,7 +50,7 @@
 * "**Daily** verbal, behavioural, or environmental indignities, **whether intentional or unintentional**, that communicate **hostile**, **derogatory**, or **negative** prejudicial slights and insults toward any group."
 
 
-**Explain Privilege to those who do not see it**
+**Explain Privilege To Those Who Do Not See It**
 
 * Teacher tells students they are having a race and the winner recieves a prize. However, **some students get a head start** on this race:
 
