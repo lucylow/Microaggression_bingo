@@ -26,14 +26,11 @@
 * **A HTML5 bingo board mobile application exploring social justice and privilege** for Facebook's 2019 Developer Circle Challenge. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds! Watch the video submission here: https://www.youtube.com/watch?v=WhfnhcWPI3U&feature=youtu.be
 *  HTML5 games are games that users can **play on the web, across devices**. JavaScript can be used to create **immersive gaming experiences that are accessible to anyone** and can be integrated to platforms like Facebook Instant Games or Wechat.
 * **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
-
-  <a href="https://lucylow.github.io/Microaggression_bingo/" >
-    <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/microaggression_mini_logo.png" width="350" height="350"> </a>
     
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-    *Images. First image, the microaggression mini logo "Winner Winner Privilege Dinner". Second image, a cartoon I drew when I was bored at lunch.*
+    *Images. A cartoon I drew when I was bored at lunch.*
 
 
   
@@ -95,7 +92,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * I am white.
 * I am a man.
 * I am a native English speaker.
-* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John]**  with extra privilege points for white males named John.
+* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John*]**  with *extra privilege points* for white males named John.
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
 * I have never been a victim of violence because of my race.
