@@ -30,7 +30,7 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-    *Image. A cartoon I drew when I was bored at lunch.*
+    *Image. A cartoon I drew when I was bored at lunch. The colour pink represents the patriarchical society we live in. The bingo game is monitored by an authority figure, a pink cat named Chris Schrodinger who decides whether or not members of society can play the "free" game. The colourful non-pink 2D/3D shapes are abstract representations of marginzed minorities group who feel a lack of belonging. The shapes are sad or angry, with one saying "But, we don't fit in the box!" in reference to the game.*
 
 
   
