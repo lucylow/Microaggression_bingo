@@ -30,7 +30,7 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-    *Image. A cartoon I drew when I was bored at lunch. The colour pink represents the patriarchical society. The bingo game is monitored by a pink cat authority figure and contrls who can play this "free" game. The colourful non-pink shapes are abstract representations of marginalized minorities group who feel a lack of belonging. 
+    *Image. A cartoon I drew when I was bored at lunch. The colour pink represents the patriarchical society. The bingo game is monitored by a pink cat authority figure and contrls who can play this "free" game. The colourful non-pink shapes are abstract representations of marginalized minorities group who feel a lack of belonging.*
 
 
   
