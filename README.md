@@ -81,7 +81,8 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   * Disabilities
   
 * **Intersectionality**
- * Dangers of a one sided story
+ * Dangers of One Sided Story
+ * Echo Chambers
 
 ---
 
