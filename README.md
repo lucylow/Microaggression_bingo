@@ -1,6 +1,6 @@
 # Microaggresion_Bingo &#x1F49C;
  
-"**Death by a thousand papercuts**" // "**Winner Winner Privilege Dinner**"
+"**Winner Winner Privilege Dinner**"
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
@@ -188,6 +188,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * Developers Circles 2019 Competition. Devpost. https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
 * User.JS File for User Privacy. Github code. https://github.com/pyllyukko/user.js/tree/relaxed
 * Facebook Instant Games. Developer documentation. https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
-* Facebook Login Integration. Developer documentation. https://developers.facebook.com/docs/facebook-login/web
+* Facebook Login Integration. Developer documentation. https://developers.facebook.com/docs/facebook-login/we
+* Responding to Microaggressions. https://advancingjustice-la.org/sites/default/files/ELAMICRO%20A_Guide_to_Responding_to_Microaggressions.pdf
 
 
