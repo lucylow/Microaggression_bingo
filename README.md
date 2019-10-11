@@ -30,7 +30,7 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-    *Image. A cartoon I drew when I was bored at lunch. The colour pink represents the patriarchical society. The bingo game is monitored by a pink cat authority figure and contrls who can play this "free" game. The colourful non-pink shapes are abstract representations of marginalized minorities group who feel a lack of belonging.*
+    *Image of a cartoon I drew. The colour pink represents the patriarchy. The bingo game is monitored by a pink cat authority figure who controls who can play this "free" game. The colourful non-pink 2D/3D shapes are abstract representations of marginalized minorities group who feel a lack of belonging.*
 
 
   
@@ -153,7 +153,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio as well](#social_justice_motivation-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio further reinforcing the patriarchy!](#social_justice_motivation-)
   
   
 ---
