@@ -191,3 +191,6 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * Responding to Microaggressions. https://advancingjustice-la.org/sites/default/files/ELAMICRO%20A_Guide_to_Responding_to_Microaggressions.pdf
 
 
+**For white males named John.**
+
+
