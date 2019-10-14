@@ -29,7 +29,7 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-   *Image of a cartoon I drew. The colour pink represents the patriarchy. The bingo game is monitored by a pink cat named **Chris Schrodinger** who controls who can play this "free" game. He says **"Only 2D/3D boxes can play the game!"**. A shape named Lucifer Yellowprism says **"But we don't fit in the box!"**. The non-pink 2D/3D shapes portray abstract representations of **marginalized minorities group who feel a lack of belonging**. They are visibily upset.*
+   *Image of a cartoon I drew. The colour pink represents the patriarchy. The bingo game is monitored by a pink cat named **Chris Schrodinger** who controls who can play this "free" game. He says **"Only 2D/3D boxes can play the game!"**. A shape named **Lucifer Yellowprism** says **"But we don't fit in the box!"**. The non-pink 2D/3D shapes portray abstract representations of **marginalized minorities group who feel a lack of belonging**. They are visibily upset.*
 
 
   
