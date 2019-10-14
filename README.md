@@ -189,6 +189,11 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * Facebook Instant Games. Developer documentation. https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
 * Facebook Login Integration. Developer documentation. https://developers.facebook.com/docs/facebook-login/we
 * Responding to Microaggressions. https://advancingjustice-la.org/sites/default/files/ELAMICRO%20A_Guide_to_Responding_to_Microaggressions.pdf
+* The Gender Leadership Gap. https://www.jpmorgan.com/commercial-banking/insights/gender-leadership-gap-infographic?fbclid=IwAR0By7nZ8AROw42Bf9_iNYMshe7lLSbtvwoLDm4zLm2D4h_mH104L2wusNM
+
+
+
+
 
 
 **For white males named John.**
