@@ -184,9 +184,9 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * Caroline Criado-Pérez. "Invisble Women: Data Bias in a World Designed for Men"
 * "If there's only one woman (or minority) candidate in your pool there's statistically no chance they'll be hired" https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired
 * Developers Circles 2019 Competition. Devpost. https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
-* User.JS File for User Privacy. Github code. https://github.com/pyllyukko/user.js/tree/relaxed
-* Facebook Instant Games. Developer documentation. https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
+* User.JS File for User Privacy Github. https://github.com/pyllyukko/user.js/tree/relaxed
+* Facebook Instant Games Developer documentation. https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
 * Facebook Login Integration. Developer documentation. https://developers.facebook.com/docs/facebook-login/we
 * Responding to Microaggressions. https://advancingjustice-la.org/sites/default/files/ELAMICRO%20A_Guide_to_Responding_to_Microaggressions.pdf
-* The Gender Leadership Gap. https://www.jpmorgan.com/commercial-banking/insights/gender-leadership-gap-infographic?fbclid=IwAR0By7nZ8AROw42Bf9_iNYMshe7lLSbtvwoLDm4zLm2D4h_mH104L2wusNM
+
 
