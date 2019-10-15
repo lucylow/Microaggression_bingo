@@ -92,7 +92,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * I am white.
 * I am a man.
 * I am a native English speaker.
-* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John]**
+* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John*]**
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
 * I have never been a victim of violence because of my race.
@@ -178,7 +178,6 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ## References &#x1F49C;
 
-
 * "How Privileged Are you?". Buzzfeed Quiz. https://www.buzzfeed.com/regajha/how-privileged-are-you
 * Top 10 Male Names. https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web and https://duckduckgo.com/?q=how+to+overthrow+the+patriarchy&t=h_&ia=about
 * Harvard Implicit Bias Test. https://implicit.harvard.edu/implicit/selectatest.html
@@ -190,12 +189,4 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * Facebook Login Integration. Developer documentation. https://developers.facebook.com/docs/facebook-login/we
 * Responding to Microaggressions. https://advancingjustice-la.org/sites/default/files/ELAMICRO%20A_Guide_to_Responding_to_Microaggressions.pdf
 * The Gender Leadership Gap. https://www.jpmorgan.com/commercial-banking/insights/gender-leadership-gap-infographic?fbclid=IwAR0By7nZ8AROw42Bf9_iNYMshe7lLSbtvwoLDm4zLm2D4h_mH104L2wusNM
-
-
-
-
-
-
-**For white males named John.**
-
 
