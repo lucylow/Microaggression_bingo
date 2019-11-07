@@ -29,7 +29,7 @@
   <a href="https://lucylow.github.io/Microaggression_bingo/" >
     <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
    
-   *Image of a cartoon I drew. The colour pink represents the patriarchy. The bingo game is monitored by a pink cat named **Chris Schrodinger** who controls who can play this "free" game. He says **"Only 2D/3D boxes can play the game!"**. A shape named **Lucifer Yellowprism** says **"But we don't fit in the box!"**.*
+   *The bingo game is monitored by a pink cat named **Chris Schrodinger** who controls who can play this "free" game. He says **"Only 2D/3D boxes can play the game!"**. A shape named **Lucifer Yellowprism** says **"But we don't fit in the box!"**.*
 
 
   
@@ -91,15 +91,10 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 * I am white.
 * I am a man.
-* I am a native English speaker.
 * My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John*]**
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
-* I have never been a victim of violence because of my race.
 * **I was not bullied as a child for any of my identities :(**
-* I have never been called fag/dyke/fairy or any other derogatory slur for homosexuals.
-* I do not have any learning or physical disabilities.
-* You have never heard this statement: "You have been **randomly selected** for secondary passport control".
 
 
 ---
