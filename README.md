@@ -169,7 +169,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ----
 
-## Books_to_Read_for_White_Males_Named_John &#x1F49C;
+## Books_to_Read_for_White_Males_Named_J0hn &#x1F49C;
  * Algorithms of Oppression
  * Automating Inequality
  * Programmed Inequality
@@ -178,7 +178,8 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
  * Dark Matters
  * The Age of Surveillance Capitalism
  * Artificial Unintelligence
- * Through Google-Colored Glass
+ * Through Google-Colored Glass 
+ * Invisble Women: Data Bias in a World Designed for Men <3
  * You Look Like a Thing and I Love You
  * The Intersectional Internet
  * Behind the Screen: Content Moderation in the Shadows of Social Media
@@ -195,7 +196,6 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * "How Privileged Are you?". Buzzfeed Quiz. https://www.buzzfeed.com/regajha/how-privileged-are-you
 * Top 10 Male Names. https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web and https://duckduckgo.com/?q=how+to+overthrow+the+patriarchy&t=h_&ia=about
 * Harvard Implicit Bias Test. https://implicit.harvard.edu/implicit/selectatest.html
-* Caroline Criado-Pérez. "Invisble Women: Data Bias in a World Designed for Men"
 * Developers Circles 2019 Competition. Devpost. https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
 * User.JS File for User Privacy Github. https://github.com/pyllyukko/user.js/tree/relaxed
 * Facebook Instant Games Developer documentation. https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
