@@ -148,7 +148,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio... This is bad because it further reinforces the patriarchy - refer to definition above.](#social_justice_motivation-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twitter bio... This is bad because it further reinforces the patriarchy. [Refer to social justice motivation definition above.](#social_justice_motivation-)
   
   
 ---
