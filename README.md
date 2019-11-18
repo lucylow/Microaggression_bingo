@@ -92,7 +92,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 * I am white.
 * I am a man.
-* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John*]**
+* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John*] **
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
 * **I was not bullied as a child for any of my identities :(**
