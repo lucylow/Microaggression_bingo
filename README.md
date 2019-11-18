@@ -18,6 +18,7 @@
 * [Technical How it works](#technical_how_it_works-)
 * [Technical Facebook Developer Product Integration](#technical_facebook_developer_product_integration-)
 * [Technical User Privacy Considerations](#technical_user_privacy_considerations-)
+* [Books_to_Read_for_White_Males_Named_John](#Books_to_Read_for_White_Males_Named_John-)
 * [References](#references-) 
 
 
@@ -166,9 +167,9 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   * Reduce tracking from web analytics, tracking, finger-printing, or shoulder surfers
   * **Harden browser settings** against data disclosure or code execution vulnerabilities
 
--- 
+----
 
-## Books to read for white males named John &#x1F49C;
+## Books_to_Read_for_White_Males_Named_John &#x1F49C;
  * Algorithms of Oppression
  * Automating Inequality
  * Programmed Inequality
