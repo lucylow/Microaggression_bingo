@@ -147,7 +147,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio... further reinforcing the patriarchy!](#social_justice_motivation-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". [**The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twiter bio... This is bad because it further reinforces the patriarchy - refer to definition above.](#social_justice_motivation-)
   
   
 ---
@@ -166,6 +166,24 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   * Reduce tracking from web analytics, tracking, finger-printing, or shoulder surfers
   * **Harden browser settings** against data disclosure or code execution vulnerabilities
 
+-- 
+
+## Books to read for white males named John &#x1F49C;
+ * Algorithms of Oppression
+ * Automating Inequality
+ * Programmed Inequality
+ * Weapons of Math Destruction
+ * Race After Technology
+ * Dark Matters
+ * The Age of Surveillance Capitalism
+ * Artificial Unintelligence
+ * Through Google-Colored Glass
+ * You Look Like a Thing and I Love You
+ * The Intersectional Internet
+ * Behind the Screen: Content Moderation in the Shadows of Social Media
+ * Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech
+
+
 
 
 ---
@@ -177,7 +195,6 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * Top 10 Male Names. https://duckduckgo.com/?q=top+10+male+names&atb=v1-1&ia=web and https://duckduckgo.com/?q=how+to+overthrow+the+patriarchy&t=h_&ia=about
 * Harvard Implicit Bias Test. https://implicit.harvard.edu/implicit/selectatest.html
 * Caroline Criado-Pérez. "Invisble Women: Data Bias in a World Designed for Men"
-* "If there's only one woman (or minority) candidate in your pool there's statistically no chance they'll be hired" https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired
 * Developers Circles 2019 Competition. Devpost. https://developercircles2019.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover
 * User.JS File for User Privacy Github. https://github.com/pyllyukko/user.js/tree/relaxed
 * Facebook Instant Games Developer documentation. https://developers.facebook.com/docs/games/instant-games/getting-started/launch-checklist
