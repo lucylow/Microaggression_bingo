@@ -92,7 +92,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 * I am white.
 * I am a man.
-* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or John*] **
+* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or J0hn]**
 * I have never felt unsafe because of my gender, been catcalled, or raped.
 * I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
 * **I was not bullied as a child for any of my identities :(**
@@ -148,7 +148,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is surprisingly John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twitter bio... This is bad because it further reinforces the patriarchy. [Refer to social justice motivation definition above.](#social_justice_motivation-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is *surprisingly* John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twitter bio. This is bad because it further reinforces the patriarchy. [Refer to social justice motivation definition above.](#social_justice_motivation-)
   
   
 ---
@@ -173,7 +173,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
  * Algorithms of Oppression
  * Automating Inequality
  * Programmed Inequality
- * Weapons of Math Destruction
+ * Weapons of Math Destruction <3
  * Race After Technology
  * Dark Matters
  * The Age of Surveillance Capitalism
