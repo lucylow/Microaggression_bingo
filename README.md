@@ -18,7 +18,7 @@
 * [Technical How it works](#technical_how_it_works-)
 * [Technical Facebook Developer Product Integration](#technical_facebook_developer_product_integration-)
 * [Technical User Privacy Considerations](#technical_user_privacy_considerations-)
-* [Books_to_Read_for_White_Males_Named_John](#Books_to_Read_for_White_Males_Named_John-)
+* [Books to Read for White Males Named John](#Books_to_Read_for_White_Males_Named_John-)
 * [References](#references-) 
 
 
