@@ -171,7 +171,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ----
 
-## Challenges I Ran Into &#x1F49C;
+## Challenges_I_Ran_Into &#x1F49C;
 
 * Game was super boring with a **"fixed"/"hard-coded" bingo board** 
    * Decided to **make game configurable** with json data so that user can choose tile names and it also **randomizes with each refresh**. 
@@ -201,7 +201,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ---
 
-## What's next for Microaggression Bingo &#x1F49C;
+## What's_next_for_Microaggression_Bingo &#x1F49C;
 * More FB product integration since it's already on the platform. Ship it via Instant Games
 
 
