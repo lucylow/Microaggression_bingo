@@ -17,8 +17,10 @@
 * [Bingo Examples](#bingo_examples-) 
 * [Technical How it works](#technical_how_it_works-)
 * [Technical Facebook Developer Product Integration](#technical_facebook_developer_product_integration-)
+* [Challenges I Ran Into](#Challenges_I_Ran_Into-)
 * [Technical User Privacy Considerations](#technical_user_privacy_considerations-)
 * [Books to Read for White Males Named John](#Books_to_Read_for_White_Males_Named_John-)
+* [What's next for Microaggression Bingo](#What's_next_for_Microaggression_Bingo-)
 * [References](#references-) 
 
 
@@ -169,6 +171,18 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ----
 
+## Challenges I Ran Into &#x1F49C;
+
+* Game was super boring with a **"fixed"/"hard-coded" bingo board** 
+   * Decided to **make game configurable** with json data so that user can choose tile names and it also **randomizes with each refresh**. 
+* Uploading the **raw code to Facebook's HTML5 Instant Game platform** was quite a process. Had to read through documentation to **integrate facebook login, fbapp-config.json, analytics**, and the continue as {Name} button.
+* **Accounting for user privacy**
+  * In a bingo board game when the bingo cache stores data on user's local device
+  * Decided that **data.js information be removed when user clears cache**
+
+
+----
+
 ## Books_to_Read_for_White_Males_Named_J0hn &#x1F49C;
  * Algorithms of Oppression
  * Automating Inequality
@@ -185,7 +199,10 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
  * Behind the Screen: Content Moderation in the Shadows of Social Media
  * Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech
 
+---
 
+## What's next for Microaggression Bingo &#x1F49C;
+* More FB product integration since it's already on the platform. Ship it via Instant Games
 
 
 ---
