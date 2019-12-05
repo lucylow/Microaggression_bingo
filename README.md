@@ -150,11 +150,11 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
   ![John](https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/FB%20Continue%20as%20John.png)
   
   
-  Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} used is *surprisingly* John! Facebook profile image of a white male and a child.** One can deduce he has *"loving husband, father"* on his Twitter bio. This is bad because it further reinforces the patriarchy. [Refer to social justice motivation definition above.](#social_justice_motivation-)
+  Image. Screenshot of the Facebook's "Continue as {Name} Button". **The {Name} and image of  Facebook profile is *suprisingly* WHILE MALE NAMED JOHN AND CHILD.** One can deduce he has *"loving husband, father"* on his Twitter bio. THIS IS BAD BECAUSE IT FURTHER REINFORCES THE PATRIARCHY. [Refer to social justice motivation definition above.](#social_justice_motivation-)
   
   
 ---
-  
+ 
 ## Technical_User_Privacy_Considerations &#x1F49C;
 
 * **HTML5 Local Storage Data**
@@ -184,18 +184,19 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 ----
 
 ## Books_to_Read_for_White_Males_Named_J0hn &#x1F49C;
- * Algorithms of Oppression
- * Automating Inequality
- * Programmed Inequality
- * Weapons of Math Destruction <3
- * Race After Technology
+ * Algorithms of Oppression: How Search Engines Reinforce Racism
+ * Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor
+ * Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing
+ * Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy <3
  * Dark Matters
- * The Age of Surveillance Capitalism
- * Artificial Unintelligence
+ * Race After Technology: Abolitionist Tools for the New Jim Code
+ * The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
+ * Artificial Unintelligence: How Computers Misunderstand the World 
  * Through Google-Colored Glass 
  * Invisble Women: Data Bias in a World Designed for Men <3
  * You Look Like a Thing and I Love You
- * The Intersectional Internet
+ * The Intersectional Internet: Race, Sex, Class, and Culture Online
+ * Brotopia: Breaking Up the Boys' Club of Silicon Valley 
  * Behind the Screen: Content Moderation in the Shadows of Social Media
  * Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech
 
