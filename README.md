@@ -24,7 +24,7 @@
 * [Technical Facebook Developer Product Integration](#technical_facebook_developer_product_integration-)
 * [Challenges I Ran Into](#Challenges_I_Ran_Into-)
 * [Technical User Privacy Considerations](#technical_user_privacy_considerations-)
-* [Books to Read for White Males Named John](#Books_to_Read_for_White_Males_Named_John-)
+* [Books to Read for White Males Named J0hn](#Books_to_Read_for_White_Males_Named_J0hn-)
 * [What's next for Microaggression Bingo](#What's_next_for_Microaggression_Bingo-)
 * [References](#references-) 
 
