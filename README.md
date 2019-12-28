@@ -184,7 +184,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 
 ## Books_to_Read_for_White_Males_Named_J0hn &#x1F49C;
 
-**According to statitsics in the US, WHITE MALES constitute only 33% of the population but they occupy approximately 80% of tenured positions in higher education, 80% of the House of Representatives, 80-85% of the U. S. Senate, 92% of Forbes 400 executive CEO-level positions, 90% pf public school superintendents, 99.9% of athletic team owners, 97.7% of U. S. presidents. Here are some books for white males to read to better understand their privelege: **
+**According to statitsics in the US, WHITE MALES constitute only 33% of the population but they occupy approximately 80% of tenured positions in higher education, 80% of the House of Representatives, 80-85% of the U. S. Senate, 92% of Forbes 400 executive CEO-level positions, 90% pf public school superintendents, 99.9% of athletic team owners, 97.7% of US presidents. Here are some books for white males to read to better understand their privelege:**
 
  * Algorithms of Oppression: How Search Engines Reinforce Racism
  * Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor
