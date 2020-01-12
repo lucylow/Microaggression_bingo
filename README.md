@@ -1,6 +1,6 @@
 # Microaggresion_Bingo &#x1F49C;
  
-"**Winner Winner Privilege Dinner"/ "We All Belong"**
+"**Winner Winner Privilege Dinner"/"We All Belong"**
  
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Microaggression_bingo.svg)](https://github.com/lucylow/Microaggression_bingo/issues)
@@ -199,6 +199,16 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
  * Brotopia: Breaking Up the Boys' Club of Silicon Valley 
  * Behind the Screen: Content Moderation in the Shadows of Social Media
  * Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech
+ * Recoding Gender: Women's Changing Participation in Computing
+ * Cyber Racism
+ * Digital Diaspora, Anna Everett 
+ * Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass,
+ * Surveillance as Social Sorting: Privacy, Risk and Automated Discrimination
+ * When Biometrics Fail: Gender, Race, and the Technology of Identity
+ * Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter
+ * Race after the Internet
+ * Heartificial Intelligence: Embracing Our Humanity to Maximize Our Machines
+ * https://criticalracedigitalstudies.com/syllabus/
 
 ---
 
