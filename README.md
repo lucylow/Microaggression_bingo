@@ -31,15 +31,10 @@
 
 ---
 ### Game_Intro &#x1F49C;
-* **A HTML5 bingo board mobile application exploring social justice and privilege** for Facebook's 2019 Developer Circle Challenge. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds! Watch the video submission here: https://www.youtube.com/watch?v=WhfnhcWPI3U&feature=youtu.be
-*  HTML5 games are games that users can **play on the web, across devices**. JavaScript can be used to create **immersive gaming experiences that are accessible to anyone** and can be integrated to platforms like Facebook Instant Games or Wechat. **Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
+* **A HTML5 bingo board mobile application exploring social justice and privilege** for Facebook's 2019 Developer Circle Challenge. Participate in a fun, safe, and *inclusive* bingo game that *welcomes* players of diverse backgrounds! Watch the video submission here: https://www.youtube.com/watch?v=WhfnhcWPI3U&feature=youtu.be HTML5 games are games that users can **play on the web, across devices**. JavaScript can be used to create **immersive gaming experiences that are accessible to anyone** and can be integrated to platforms like Facebook Instant Games or Wechat. 
+
+**Let's play the privilege game?** [Click here!]( https://lucylow.github.io/Microaggression_bingo/)
     
-  <a href="https://lucylow.github.io/Microaggression_bingo/" >
-    <img src="https://github.com/lucylow/Microaggression_bingo/blob/master/screenshots/marketing%20pics/schrodingers%20box.jpg" > </a>    
-   
-   *The bingo game is monitored by a pink cat named **Chris Schrodinger** who controls who can play this "free" game. He says **"Only 2D/3D boxes can play the game!"**. A shape named **Lucifer Yellowprism** says **"But we don't fit in the box!"**.*
-
-
   
 ---
 
