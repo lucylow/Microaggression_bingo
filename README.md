@@ -203,7 +203,7 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
  * Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter
  * Race after the Internet
  * Heartificial Intelligence: Embracing Our Humanity to Maximize Our Machines
- * https://criticalracedigitalstudies.com/syllabus/
+ * Do Babies Matter? Gender and Family in the Ivory Tower
 
 ---
 
