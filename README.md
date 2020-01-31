@@ -19,7 +19,6 @@
 * [Game Intro](#game_intro-)
 * [Social Justice Motivation](#social_justice_motivation-)
 * [Bingo Categories](#bingo_categories_config-in-bingooptions-)
-* [Bingo Examples](#bingo_examples-) 
 * [Technical How it works](#technical_how_it_works-)
 * [Technical Facebook Developer Product Integration](#technical_facebook_developer_product_integration-)
 * [Challenges I Ran Into](#Challenges_I_Ran_Into-)
@@ -85,20 +84,6 @@ alt="Video to provoke discussion and understanding" width="240" height="180" bor
 * **Intersectionality**
   * Dangers of One Sided Story
   * Echo Chambers
-
----
-
-
-## Bingo_Examples &#x1F49C;
-
-
-* I am white.
-* I am a man.
-* My name is one of the following: **[James, Chris, Robert, Michael, William, David, Richard, Joseph, Thomas, or J0hn]**
-* I have never felt unsafe because of my gender, been catcalled, or raped.
-* I have never been asked "So where are you *REALLY* from?", or "Why don't you have an accent?".
-* **I was not bullied as a child for any of my identities :(**
-
 
 ---
 
